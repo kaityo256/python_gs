@@ -11,12 +11,14 @@ The governing equation is as follows.
 
 ![eq.png](fig/eq.png)
 
+<!-- 
 $$
 \begin{aligned}
 \frac{\partial u}{\partial t} &= D_u \nabla^2 u - uv^2 + F(1-u) \\
 \frac{\partial v}{\partial t} &= D_v \nabla^2 v + uv^2 - (F+k)v
 \end{aligned}
 $$
+-->
 
 * Du, Dv: diffusion constants for u and v
 * F, k: some constants
